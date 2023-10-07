@@ -16,16 +16,12 @@ payload:
   - DOMAIN-SUFFIX,primevideo.com
   # > Bahamut
   - DOMAIN-SUFFIX,bahamut.com.tw
-  - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
   # > anidb
   - DOMAIN-SUFFIX,anidb.net
   # > BBC iPlayer
-  - DOMAIN-SUFFIX,bbc.co.uk
-  - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,uk-live
   # > DAZN
   - DOMAIN-SUFFIX,dazn.com
   # > encoreTVB
@@ -41,10 +37,8 @@ payload:
   - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,uplynk.com
   # > HBO Now & HBO GO
-  - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hboasia.com
-  - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
@@ -52,8 +46,6 @@ payload:
   - DOMAIN,manifest.prod.boltdns.net
   - DOMAIN,s3-ap-southeast-1.amazonaws.com
   # > Hulu
-  - DOMAIN-SUFFIX,hulu.com
-  - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
   # > KKTV
   - DOMAIN-SUFFIX,kktv.com.tw
@@ -70,15 +62,7 @@ payload:
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
   # > myTV_SUPER
   - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
   # > Netflix
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,netflix.net
-  - DOMAIN-SUFFIX,nflxext.com
-  - DOMAIN-SUFFIX,nflximg.com
-  - DOMAIN-SUFFIX,nflximg.net
-  - DOMAIN-SUFFIX,nflxso.net
-  - DOMAIN-SUFFIX,nflxvideo.net
   - IP-CIDR,23.246.0.0/18,no-resolve
   - IP-CIDR,37.77.184.0/21,no-resolve
   - IP-CIDR,45.57.0.0/17,no-resolve
@@ -89,42 +73,27 @@ payload:
   - IP-CIDR,198.38.96.0/19,no-resolve
   - IP-CIDR,198.45.48.0/20,no-resolve
   # > PBS
-  - DOMAIN-SUFFIX,pbs.org
   # > Pornhub
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
   # > Twitch
-  - DOMAIN-SUFFIX,twitch.tv
-  - DOMAIN-SUFFIX,twitchcdn.net
-  - DOMAIN-SUFFIX,ttvnw.net
   # > Viu(TV)
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN-SUFFIX,viu.tv
   - DOMAIN,api.viu.now.com
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
   # > Youtube
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN,youtubei.googleapis.com
   # (Music)
   # > Deezer
-  - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
   # > KKBOX
-  - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kkbox.com.tw
   - DOMAIN-SUFFIX,kfs.io
   # > JOOX
   - DOMAIN-SUFFIX,joox.com
   # > Pandora
-  - DOMAIN-SUFFIX,pandora.com
   # > Spotify
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spoti.fi
   - IP-CIDR,35.186.224.47/32,no-resolve
   # > TIDAL
