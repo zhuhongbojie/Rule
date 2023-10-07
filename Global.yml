@@ -1,4 +1,5 @@
   # (DNS Cache Pollution Protection)
+payload:
   # > Microsoft
   - DOMAIN-SUFFIX,xboxlive.com
   # > Facebook
