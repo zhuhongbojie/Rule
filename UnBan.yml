@@ -1,5 +1,7 @@
   # Unbreak 白名单 不应该被广告链接的网站
 payload:
+  # 东方财富
+  - DOMAIN-SUFFIX,push2.eastmoney.com
   # Epicgames
   - DOMAIN-SUFFIX,ol.epicgames.com
   # Getui
