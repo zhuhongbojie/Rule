@@ -3,6 +3,7 @@ payload:
   # Personal list
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,bbs.wcccc.cc
+  - DOMAIN-SUFFIX,en.huamaobizhi.com
   # GFW list
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,chromeenterprise.google
