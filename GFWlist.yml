@@ -2,6 +2,7 @@
 payload:
   # Personal list
   - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,cdn.shucdn.com
   - DOMAIN-SUFFIX,bbs.wcccc.cc
   - DOMAIN-SUFFIX,en.huamaobizhi.com
   # GFW list
