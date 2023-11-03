@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-msp.18comic.vip
   - DOMAIN-SUFFIX,cdn-msp.jmcomic.me
   - DOMAIN-SUFFIX,charontv.com
+  - DOMAIN-SUFFIX,cherrytv.one
   # GFW list
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,chromeenterprise.google
