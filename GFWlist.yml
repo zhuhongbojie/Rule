@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,bbs.wcccc.cc
   - DOMAIN-SUFFIX,en.huamaobizhi.com
   - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,cdn-msp.18comic.vip
+  - DOMAIN-SUFFIX,cdn-msp.jmcomic.me
+  - DOMAIN-SUFFIX,charontv.com
   # GFW list
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,chromeenterprise.google
