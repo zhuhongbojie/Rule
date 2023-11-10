@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-msp.jmcomic.me
   - DOMAIN-SUFFIX,charontv.com
   - DOMAIN-SUFFIX,cherrytv.one
+  - DOMAIN-SUFFIX,ftp.de.debian.org
   # GFW list
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,chromeenterprise.google
