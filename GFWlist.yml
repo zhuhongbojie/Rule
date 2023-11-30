@@ -1,6 +1,7 @@
   # 代理列表
 payload:
   # Personal list
+  - DOMAIN-SUFFIX,ntrrr.am.sb
   - DOMAIN-SUFFIX,69shuba.com
   - DOMAIN-SUFFIX,www.69shuba.com
   - DOMAIN-SUFFIX,cdn.shucdn.com
