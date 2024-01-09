@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,esharenet.eu
 DOMAIN-SUFFIX,estone.cc
 DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,ethor.cc
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,extremlymtorrents.ws
 DOMAIN-SUFFIX,fantastic-heaven.eu
@@ -215,6 +216,7 @@ DOMAIN-SUFFIX,nrw-tracker.eu
 DOMAIN-SUFFIX,nwsuaf6.edu.cn
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,openlook.me
+DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,oshen.win
 DOMAIN-SUFFIX,ourbits.club
@@ -227,7 +229,7 @@ DOMAIN-SUFFIX,pretome.info
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,psytorrents.info
 DOMAIN-SUFFIX,pt.zhixing.bjtu.edu.cn
-DOMAIN-SUFFIX,ptchdbis.co
+DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,pter.club
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,ptfiles.net
@@ -297,6 +299,7 @@ DOMAIN-SUFFIX,uhd-heaven.xyz
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,upxin.net
 DOMAIN-SUFFIX,vhstapes.org
+DOMAIN-SUFFIX,wegeek.org
 DOMAIN-SUFFIX,whu.pt
 DOMAIN-SUFFIX,wigornot.com
 DOMAIN-SUFFIX,world-in-hd.net
@@ -327,7 +330,7 @@ DOMAIN-KEYWORD,sandai
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,xunlei
-# > General Torrent PROCESS NAME
+ # > General Torrent PROCESS NAME
 PROCESS-NAME,BitComet
 PROCESS-NAME,DownloadService
 PROCESS-NAME,DownloadService.exe
