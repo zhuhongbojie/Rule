@@ -1,5 +1,3 @@
-# > 本规则为茉莉群私有使用，如有任何问题，第一时间内删除。
-# > This rule is for private group BonusGone only. If there are any problems, it will be deleted ASAP.
 # Private Tracker
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2f4y.me
@@ -306,60 +304,3 @@ DOMAIN-SUFFIX,xspeeds.eu
 DOMAIN-SUFFIX,xthor.tk
 DOMAIN-SUFFIX,xthor.to
 DOMAIN-SUFFIX,yingk.com
-# > General Torrent Keyword
-DOMAIN-KEYWORD,BitTorrent
-DOMAIN-KEYWORD,HELO
-DOMAIN-KEYWORD,SMTP
-DOMAIN-KEYWORD,Subject
-DOMAIN-KEYWORD,Thunder
-DOMAIN-KEYWORD,XLLiveUD
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,announce.php?passkey=
-DOMAIN-KEYWORD,announce_peer
-DOMAIN-KEYWORD,aria2
-DOMAIN-KEYWORD,bt_key
-DOMAIN-KEYWORD,find_node
-DOMAIN-KEYWORD,get_peers
-DOMAIN-KEYWORD,hares
-DOMAIN-KEYWORD,info_hash
-DOMAIN-KEYWORD,magnet:
-DOMAIN-KEYWORD,peer_id=
-DOMAIN-KEYWORD,sandai
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,xunlei
- # > General Torrent PROCESS NAME
-PROCESS-NAME,BitComet
-PROCESS-NAME,DownloadService
-PROCESS-NAME,DownloadService.exe
-PROCESS-NAME,Folx
-PROCESS-NAME,Folx.exe
-PROCESS-NAME,Motrix
-PROCESS-NAME,Motrix.exe
-PROCESS-NAME,NetTransport
-PROCESS-NAME,NetTransport.exe
-PROCESS-NAME,Thunder
-PROCESS-NAME,Thunder.exe
-PROCESS-NAME,Transmission
-PROCESS-NAME,Transmission.exe
-PROCESS-NAME,WebTorrent Helper
-PROCESS-NAME,WebTorrent Helper.exe
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent.exe
-PROCESS-NAME,Weiyun
-PROCESS-NAME,Weiyun.exe
-PROCESS-NAME,aria2c
-PROCESS-NAME,aria2c.exe
-PROCESS-NAME,baidunetdisk
-PROCESS-NAME,baidunetdisk.exe
-PROCESS-NAME,deluge
-PROCESS-NAME,deluge.exe
-PROCESS-NAME,fdm
-PROCESS-NAME,fdm.exe
-PROCESS-NAME,qbittorrent
-PROCESS-NAME,qbittorrent.exe
-PROCESS-NAME,transmission
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-qt
-PROCESS-NAME,uTorrent
-PROCESS-NAME,uTorrent.exe
