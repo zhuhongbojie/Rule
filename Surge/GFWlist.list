@@ -1,0 +1,160 @@
+  # 代理列表
+  # Personal list
+DOMAIN-SUFFIX,emby.lcloud.wiki
+DOMAIN-SUFFIX,ntrrr.am.sb
+DOMAIN-SUFFIX,69shuba.com
+DOMAIN-SUFFIX,www.69shuba.com
+DOMAIN-SUFFIX,cdn.shucdn.com
+DOMAIN-SUFFIX,bbs.wcccc.cc
+DOMAIN-SUFFIX,en.huamaobizhi.com
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,cdn-msp.18comic.vip
+DOMAIN-SUFFIX,cdn-msp.jmcomic.me
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,cherrytv.one
+DOMAIN-SUFFIX,ftp.de.debian.org
+  # GFW list
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,chromeenterprise.google
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,google.ac
+DOMAIN-SUFFIX,google.af
+DOMAIN-SUFFIX,google.ai
+DOMAIN-SUFFIX,google.eu
+DOMAIN-SUFFIX,google.hk
+DOMAIN-SUFFIX,google.it.ao
+DOMAIN-SUFFIX,google.mx
+DOMAIN-SUFFIX,google.org
+DOMAIN-SUFFIX,google.us
+DOMAIN-SUFFIX,google.vn
+DOMAIN-SUFFIX,horrorporn.com
+DOMAIN-SUFFIX,keso.cn
+DOMAIN-SUFFIX,linksalpha.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,page.tl
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,research.google
+DOMAIN-SUFFIX,syx86.cn
+DOMAIN-SUFFIX,translate.google
+DOMAIN-SUFFIX,tv.google
+  # Amazon
+IP-CIDR,13.32.0.0/15,no-resolve
+IP-CIDR,13.35.0.0/17,no-resolve
+IP-CIDR,18.184.0.0/15,no-resolve
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,18.208.0.0/13,no-resolve
+IP-CIDR,18.232.0.0/14,no-resolve
+IP-CIDR,52.58.0.0/15,no-resolve
+IP-CIDR,52.74.0.0/16,no-resolve
+IP-CIDR,52.77.0.0/16,no-resolve
+IP-CIDR,52.84.0.0/15,no-resolve
+IP-CIDR,52.200.0.0/13,no-resolve
+IP-CIDR,54.93.0.0/16,no-resolve
+IP-CIDR,54.156.0.0/14,no-resolve
+IP-CIDR,54.226.0.0/15,no-resolve
+IP-CIDR,54.230.156.0/22,no-resolve
+  # Facebook
+DOMAIN-SUFFIX,fbcdn.com
+IP-CIDR,31.13.24.0/21,no-resolve
+IP-CIDR,31.13.64.0/18,no-resolve
+IP-CIDR,45.64.40.0/22,no-resolve
+IP-CIDR,66.220.144.0/20,no-resolve
+IP-CIDR,69.63.176.0/20,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
+IP-CIDR,74.119.76.0/22,no-resolve
+IP-CIDR,103.4.96.0/22,no-resolve
+IP-CIDR,129.134.0.0/17,no-resolve
+IP-CIDR,157.240.0.0/17,no-resolve
+IP-CIDR,173.252.64.0/18,no-resolve
+IP-CIDR,179.60.192.0/22,no-resolve
+IP-CIDR,185.60.216.0/22,no-resolve
+IP-CIDR,204.15.20.0/22,no-resolve
+  # Github
+DOMAIN-SUFFIX,githubapp.com
+  # Google
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,gvt2.com
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
+  # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
+IP-CIDR,120.232.181.162/32,no-resolve
+IP-CIDR,120.241.147.226/32,no-resolve
+IP-CIDR,120.253.253.226/32,no-resolve
+IP-CIDR,120.253.255.162/32,no-resolve
+IP-CIDR,120.253.255.34/32,no-resolve
+IP-CIDR,120.253.255.98/32,no-resolve
+IP-CIDR,180.163.150.162/32,no-resolve
+IP-CIDR,180.163.150.34/32,no-resolve
+IP-CIDR,180.163.151.162/32,no-resolve
+IP-CIDR,180.163.151.34/32,no-resolve
+IP-CIDR,203.208.39.0/24,no-resolve
+IP-CIDR,203.208.40.0/24,no-resolve
+IP-CIDR,203.208.41.0/24,no-resolve
+IP-CIDR,203.208.43.0/24,no-resolve
+IP-CIDR,203.208.50.0/24,no-resolve
+IP-CIDR,220.181.174.162/32,no-resolve
+IP-CIDR,220.181.174.226/32,no-resolve
+IP-CIDR,220.181.174.34/32,no-resolve
+  # Kakao Talk
+IP-CIDR,1.201.0.0/24,no-resolve
+IP-CIDR,27.0.236.0/22,no-resolve
+IP-CIDR,103.27.148.0/22,no-resolve
+IP-CIDR,103.246.56.0/22,no-resolve
+IP-CIDR,110.76.140.0/22,no-resolve
+IP-CIDR,113.61.104.0/22,no-resolve
+  # Line
+IP-CIDR,103.2.28.0/24,no-resolve
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,119.235.224.0/24,no-resolve
+IP-CIDR,119.235.232.0/24,no-resolve
+IP-CIDR,119.235.235.0/24,no-resolve
+IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.128.0/19,no-resolve
+  # OneDrive
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+  #DOMAIN-SUFFIX,aria.microsoft.com
+  # Porn
+DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,pornhubpremium.com
+  # Steam
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steampipe.akamaized.net
+  # Whatsapp
+IP-CIDR,34.224.0.0/12,no-resolve
+IP-CIDR,54.242.0.0/15,no-resolve
+IP-CIDR,50.22.198.204/30,no-resolve
+IP-CIDR,208.43.122.128/27,no-resolve
+IP-CIDR,108.168.174.0/16,no-resolve
+IP-CIDR,173.192.231.32/27,no-resolve
+IP-CIDR,158.85.5.192/27,no-resolve
+IP-CIDR,174.37.243.0/16,no-resolve
+IP-CIDR,158.85.46.128/27,no-resolve
+IP-CIDR,173.192.222.160/27,no-resolve
+IP-CIDR,184.173.128.0/17,no-resolve
+IP-CIDR,158.85.224.160/27,no-resolve
+IP-CIDR,75.126.150.0/16,no-resolve
+IP-CIDR,69.171.235.0/16,no-resolve
+  # Top Blocked Sites
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,prfct.co
