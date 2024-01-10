@@ -1,8 +1,8 @@
-  # (ForeignMedia)
-  # > All4
+# (ForeignMedia)
+# > All4
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
-  # > AbemaTV
+# > AbemaTV
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
@@ -10,27 +10,27 @@ DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,linear-abematv.akamaized.net
-  # > Amazon Prime Video
+# > Amazon Prime Video
 DOMAIN-SUFFIX,primevideo.com
-  # > Bahamut
+# > Bahamut
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
-  # > anidb
+# > anidb
 DOMAIN-SUFFIX,anidb.net
-  # > BBC iPlayer
+# > BBC iPlayer
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-  # > DAZN
+# > DAZN
 DOMAIN-SUFFIX,dazn.com
-  # > encoreTVB
+# > encoreTVB
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,content.jwplatform.com
 DOMAIN,videos-f.jwpsrv.com
-  # > Fox+ & Fox Now
+# > Fox+ & Fox Now
 DOMAIN-SUFFIX,dashasiafox.akamaized.net
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
-  # > HBO Now & HBO GO
+# > HBO Now & HBO GO
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hboasia.com
@@ -49,27 +49,27 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-  # > Hulu
+# > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-  # > KKTV
+# > KKTV
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
-  # > Line TV
+# > Line TV
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
-  # > Hulu(フールー)
+# > Hulu(フールー)
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
-  # > LiTV
+# > LiTV
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
-  # > myTV_SUPER
+# > myTV_SUPER
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-  # > Netflix
+# > Netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -86,44 +86,44 @@ IP-CIDR,108.175.32.0/20,no-resolve
 IP-CIDR,192.173.64.0/18,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
-  # > PBS
+# > PBS
 DOMAIN-SUFFIX,pbs.org
-  # > Pornhub
+# > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
-  # > Twitch
+# > Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,ttvnw.net
-  # > Viu(TV)
+# > Viu(TV)
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
-  # > Youtube
+# > Youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
-  # (Music)
-  # > Deezer
+# (Music)
+# > Deezer
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
-  # > KKBOX
+# > KKBOX
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kfs.io
-  # > JOOX
+# > JOOX
 DOMAIN-SUFFIX,joox.com
-  # > Pandora
+# > Pandora
 DOMAIN-SUFFIX,pandora.com
-  # > Spotify
+# > Spotify
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 IP-CIDR,35.186.224.47/32,no-resolve
-  # > TIDAL
+# > TIDAL
 DOMAIN-SUFFIX,tidal.com
