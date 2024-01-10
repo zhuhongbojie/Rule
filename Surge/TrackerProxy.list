@@ -1,6 +1,6 @@
-  # > 本规则为茉莉群私有使用，如有任何问题，第一时间内删除。
-  # > This rule is for private group BonusGone only. If there are any problems, it will be deleted ASAP.
-  # > Private Tracker
+# > 本规则为茉莉群私有使用，如有任何问题，第一时间内删除。
+# > This rule is for private group BonusGone only. If there are any problems, it will be deleted ASAP.
+# > Private Tracker
 DOMAIN-SUFFIX,empornium.is
 DOMAIN-SUFFIX,empornium.sx
 DOMAIN-SUFFIX,fsm.name
