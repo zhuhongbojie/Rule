@@ -1,6 +1,6 @@
-  # 代理列表
+# 代理列表
 payload:
-  # Personal list
+# Personal list
   - DOMAIN-SUFFIX,emby.lcloud.wiki
   - DOMAIN-SUFFIX,ntrrr.am.sb
   - DOMAIN-SUFFIX,69shuba.com
@@ -8,17 +8,13 @@ payload:
   - DOMAIN-SUFFIX,cdn.shucdn.com
   - DOMAIN-SUFFIX,bbs.wcccc.cc
   - DOMAIN-SUFFIX,en.huamaobizhi.com
-  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,cdn-msp.18comic.vip
   - DOMAIN-SUFFIX,cdn-msp.jmcomic.me
   - DOMAIN-SUFFIX,charontv.com
   - DOMAIN-SUFFIX,cherrytv.one
   - DOMAIN-SUFFIX,ftp.de.debian.org
-  # GFW list
-  - DOMAIN-SUFFIX,akamaized.net
+# GFW list
   - DOMAIN-SUFFIX,chromeenterprise.google
-  - DOMAIN-SUFFIX,dropboxapi.com
-  - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,google.ac
   - DOMAIN-SUFFIX,google.af
@@ -27,106 +23,35 @@ payload:
   - DOMAIN-SUFFIX,google.hk
   - DOMAIN-SUFFIX,google.it.ao
   - DOMAIN-SUFFIX,google.mx
-  - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,google.us
   - DOMAIN-SUFFIX,google.vn
-  - DOMAIN-SUFFIX,horrorporn.com
   - DOMAIN-SUFFIX,keso.cn
-  - DOMAIN-SUFFIX,linksalpha.com
-  - DOMAIN-SUFFIX,nytlog.com
   - DOMAIN-SUFFIX,page.tl
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,research.google
   - DOMAIN-SUFFIX,syx86.cn
   - DOMAIN-SUFFIX,translate.google
   - DOMAIN-SUFFIX,tv.google
-  # Amazon
-  - IP-CIDR,13.32.0.0/15,no-resolve
-  - IP-CIDR,13.35.0.0/17,no-resolve
-  - IP-CIDR,18.184.0.0/15,no-resolve
-  - IP-CIDR,18.194.0.0/15,no-resolve
-  - IP-CIDR,18.208.0.0/13,no-resolve
-  - IP-CIDR,18.232.0.0/14,no-resolve
-  - IP-CIDR,52.58.0.0/15,no-resolve
-  - IP-CIDR,52.74.0.0/16,no-resolve
-  - IP-CIDR,52.77.0.0/16,no-resolve
-  - IP-CIDR,52.84.0.0/15,no-resolve
-  - IP-CIDR,52.200.0.0/13,no-resolve
-  - IP-CIDR,54.93.0.0/16,no-resolve
-  - IP-CIDR,54.156.0.0/14,no-resolve
-  - IP-CIDR,54.226.0.0/15,no-resolve
-  - IP-CIDR,54.230.156.0/22,no-resolve
-  # Facebook
-  - DOMAIN-SUFFIX,fbcdn.com
-  - IP-CIDR,31.13.24.0/21,no-resolve
-  - IP-CIDR,31.13.64.0/18,no-resolve
-  - IP-CIDR,45.64.40.0/22,no-resolve
-  - IP-CIDR,66.220.144.0/20,no-resolve
-  - IP-CIDR,69.63.176.0/20,no-resolve
-  - IP-CIDR,69.171.224.0/19,no-resolve
-  - IP-CIDR,74.119.76.0/22,no-resolve
-  - IP-CIDR,103.4.96.0/22,no-resolve
-  - IP-CIDR,129.134.0.0/17,no-resolve
-  - IP-CIDR,157.240.0.0/17,no-resolve
-  - IP-CIDR,173.252.64.0/18,no-resolve
-  - IP-CIDR,179.60.192.0/22,no-resolve
-  - IP-CIDR,185.60.216.0/22,no-resolve
-  - IP-CIDR,204.15.20.0/22,no-resolve
-  # Github
-  - DOMAIN-SUFFIX,githubapp.com
-  # Google
-  - DOMAIN-SUFFIX,2mdn.net
-  - DOMAIN-SUFFIX,gvt2.com
-  - IP-CIDR,74.125.0.0/16,no-resolve
-  - IP-CIDR,173.194.0.0/16,no-resolve
-  # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
-  - IP-CIDR,120.232.181.162/32,no-resolve
-  - IP-CIDR,120.241.147.226/32,no-resolve
-  - IP-CIDR,120.253.253.226/32,no-resolve
-  - IP-CIDR,120.253.255.162/32,no-resolve
-  - IP-CIDR,120.253.255.34/32,no-resolve
-  - IP-CIDR,120.253.255.98/32,no-resolve
-  - IP-CIDR,180.163.150.162/32,no-resolve
-  - IP-CIDR,180.163.150.34/32,no-resolve
-  - IP-CIDR,180.163.151.162/32,no-resolve
-  - IP-CIDR,180.163.151.34/32,no-resolve
-  - IP-CIDR,203.208.39.0/24,no-resolve
+# Amazon
+# Facebook
+# Github
+# Google
+# GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
   - IP-CIDR,203.208.40.0/24,no-resolve
   - IP-CIDR,203.208.41.0/24,no-resolve
-  - IP-CIDR,203.208.43.0/24,no-resolve
-  - IP-CIDR,203.208.50.0/24,no-resolve
-  - IP-CIDR,220.181.174.162/32,no-resolve
-  - IP-CIDR,220.181.174.226/32,no-resolve
-  - IP-CIDR,220.181.174.34/32,no-resolve
-  # Kakao Talk
-  - IP-CIDR,1.201.0.0/24,no-resolve
-  - IP-CIDR,27.0.236.0/22,no-resolve
-  - IP-CIDR,103.27.148.0/22,no-resolve
-  - IP-CIDR,103.246.56.0/22,no-resolve
-  - IP-CIDR,110.76.140.0/22,no-resolve
-  - IP-CIDR,113.61.104.0/22,no-resolve
-  # Line
+# Kakao Talk
+# Line
   - IP-CIDR,103.2.28.0/24,no-resolve
-  - IP-CIDR,103.2.30.0/23,no-resolve
   - IP-CIDR,119.235.224.0/24,no-resolve
   - IP-CIDR,119.235.232.0/24,no-resolve
-  - IP-CIDR,119.235.235.0/24,no-resolve
-  - IP-CIDR,119.235.236.0/23,no-resolve
-  - IP-CIDR,147.92.128.0/17,no-resolve
-  - IP-CIDR,203.104.128.0/19,no-resolve
-  # OneDrive
+# OneDrive
   - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,skydrive.wns.windows.com
   - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,storage.msn.com
-  #DOMAIN-SUFFIX,aria.microsoft.com
-  # Porn
-  - DOMAIN-SUFFIX,livejasmin.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  # Steam
+#  - DOMAIN-SUFFIX,aria.microsoft.com
+# Porn
+# Steam
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steamserver.net
@@ -138,24 +63,535 @@ payload:
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steampipe.akamaized.net
-  # Whatsapp
-  - IP-CIDR,34.224.0.0/12,no-resolve
-  - IP-CIDR,54.242.0.0/15,no-resolve
-  - IP-CIDR,50.22.198.204/30,no-resolve
+# Whatsapp
   - IP-CIDR,208.43.122.128/27,no-resolve
   - IP-CIDR,108.168.174.0/16,no-resolve
-  - IP-CIDR,173.192.231.32/27,no-resolve
-  - IP-CIDR,158.85.5.192/27,no-resolve
   - IP-CIDR,174.37.243.0/16,no-resolve
-  - IP-CIDR,158.85.46.128/27,no-resolve
-  - IP-CIDR,173.192.222.160/27,no-resolve
-  - IP-CIDR,184.173.128.0/17,no-resolve
-  - IP-CIDR,158.85.224.160/27,no-resolve
   - IP-CIDR,75.126.150.0/16,no-resolve
   - IP-CIDR,69.171.235.0/16,no-resolve
-  # Top Blocked Sites
+# Top Blocked Sites
   - DOMAIN-SUFFIX,app-measurement.com
-  - DOMAIN-SUFFIX,bkrtx.com
-  - DOMAIN-SUFFIX,dropboxstatic.com
-  - DOMAIN-SUFFIX,nsstatic.net
-  - DOMAIN-SUFFIX,prfct.co
+# NAME: Google
+  - DOMAIN-SUFFIX,admob.com
+  - DOMAIN-SUFFIX,ai.ytimg.com
+  - DOMAIN-SUFFIX,appbridge.ca
+  - DOMAIN-SUFFIX,appbridge.io
+  - DOMAIN-SUFFIX,appbridge.it
+  - DOMAIN-SUFFIX,apps5.oingo.com
+  - DOMAIN-SUFFIX,beacons.gvt2.com
+  - DOMAIN-SUFFIX,beacons2.gvt2.com
+  - DOMAIN-SUFFIX,beacons3.gvt2.com
+  - DOMAIN-SUFFIX,blog.google
+  - DOMAIN-SUFFIX,blogspot.ae
+  - DOMAIN-SUFFIX,blogspot.al
+  - DOMAIN-SUFFIX,blogspot.am
+  - DOMAIN-SUFFIX,blogspot.ba
+  - DOMAIN-SUFFIX,blogspot.be
+  - DOMAIN-SUFFIX,blogspot.bg
+  - DOMAIN-SUFFIX,blogspot.bj
+  - DOMAIN-SUFFIX,blogspot.ca
+  - DOMAIN-SUFFIX,blogspot.cf
+  - DOMAIN-SUFFIX,blogspot.ch
+  - DOMAIN-SUFFIX,blogspot.cl
+  - DOMAIN-SUFFIX,blogspot.co.at
+  - DOMAIN-SUFFIX,blogspot.co.id
+  - DOMAIN-SUFFIX,blogspot.co.il
+  - DOMAIN-SUFFIX,blogspot.co.ke
+  - DOMAIN-SUFFIX,blogspot.co.nz
+  - DOMAIN-SUFFIX,blogspot.co.uk
+  - DOMAIN-SUFFIX,blogspot.co.za
+  - DOMAIN-SUFFIX,blogspot.com.ar
+  - DOMAIN-SUFFIX,blogspot.com.au
+  - DOMAIN-SUFFIX,blogspot.com.br
+  - DOMAIN-SUFFIX,blogspot.com.by
+  - DOMAIN-SUFFIX,blogspot.com.cy
+  - DOMAIN-SUFFIX,blogspot.com.ee
+  - DOMAIN-SUFFIX,blogspot.com.eg
+  - DOMAIN-SUFFIX,blogspot.com.es
+  - DOMAIN-SUFFIX,blogspot.com.mt
+  - DOMAIN-SUFFIX,blogspot.com.ng
+  - DOMAIN-SUFFIX,blogspot.com.tr
+  - DOMAIN-SUFFIX,blogspot.com.uy
+  - DOMAIN-SUFFIX,blogspot.cv
+  - DOMAIN-SUFFIX,blogspot.cz
+  - DOMAIN-SUFFIX,blogspot.de
+  - DOMAIN-SUFFIX,blogspot.dk
+  - DOMAIN-SUFFIX,blogspot.fi
+  - DOMAIN-SUFFIX,blogspot.fr
+  - DOMAIN-SUFFIX,blogspot.gr
+  - DOMAIN-SUFFIX,blogspot.hr
+  - DOMAIN-SUFFIX,blogspot.hu
+  - DOMAIN-SUFFIX,blogspot.ie
+  - DOMAIN-SUFFIX,blogspot.in
+  - DOMAIN-SUFFIX,blogspot.is
+  - DOMAIN-SUFFIX,blogspot.it
+  - DOMAIN-SUFFIX,blogspot.jp
+  - DOMAIN-SUFFIX,blogspot.kr
+  - DOMAIN-SUFFIX,blogspot.li
+  - DOMAIN-SUFFIX,blogspot.lt
+  - DOMAIN-SUFFIX,blogspot.lu
+  - DOMAIN-SUFFIX,blogspot.md
+  - DOMAIN-SUFFIX,blogspot.mk
+  - DOMAIN-SUFFIX,blogspot.mx
+  - DOMAIN-SUFFIX,blogspot.my
+  - DOMAIN-SUFFIX,blogspot.nl
+  - DOMAIN-SUFFIX,blogspot.no
+  - DOMAIN-SUFFIX,blogspot.pe
+  - DOMAIN-SUFFIX,blogspot.pt
+  - DOMAIN-SUFFIX,blogspot.qa
+  - DOMAIN-SUFFIX,blogspot.re
+  - DOMAIN-SUFFIX,blogspot.ro
+  - DOMAIN-SUFFIX,blogspot.rs
+  - DOMAIN-SUFFIX,blogspot.ru
+  - DOMAIN-SUFFIX,blogspot.se
+  - DOMAIN-SUFFIX,blogspot.sg
+  - DOMAIN-SUFFIX,blogspot.si
+  - DOMAIN-SUFFIX,blogspot.sk
+  - DOMAIN-SUFFIX,blogspot.sn
+  - DOMAIN-SUFFIX,blogspot.td
+  - DOMAIN-SUFFIX,blogspot.tw
+  - DOMAIN-SUFFIX,blogspot.ug
+  - DOMAIN-SUFFIX,blogspot.vn
+  - DOMAIN-SUFFIX,bumptop.ca
+  - DOMAIN-SUFFIX,certificate-transparency.dev
+  - DOMAIN-SUFFIX,chat.gle
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,digitalattackmap.com
+  - DOMAIN-SUFFIX,doubleclick.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,fastlane.ci
+  - DOMAIN-SUFFIX,g.cn
+  - DOMAIN-SUFFIX,gcp.gvt2.com
+  - DOMAIN-SUFFIX,gkecnapps.cn
+  - DOMAIN-SUFFIX,google.ad
+  - DOMAIN-SUFFIX,google.ae
+  - DOMAIN-SUFFIX,google.al
+  - DOMAIN-SUFFIX,google.am
+  - DOMAIN-SUFFIX,google.as
+  - DOMAIN-SUFFIX,google.at
+  - DOMAIN-SUFFIX,google.az
+  - DOMAIN-SUFFIX,google.ba
+  - DOMAIN-SUFFIX,google.be
+  - DOMAIN-SUFFIX,google.berlin
+  - DOMAIN-SUFFIX,google.bf
+  - DOMAIN-SUFFIX,google.bg
+  - DOMAIN-SUFFIX,google.bi
+  - DOMAIN-SUFFIX,google.bj
+  - DOMAIN-SUFFIX,google.bs
+  - DOMAIN-SUFFIX,google.bt
+  - DOMAIN-SUFFIX,google.by
+  - DOMAIN-SUFFIX,google.ca
+  - DOMAIN-SUFFIX,google.cat
+  - DOMAIN-SUFFIX,google.cd
+  - DOMAIN-SUFFIX,google.cf
+  - DOMAIN-SUFFIX,google.cg
+  - DOMAIN-SUFFIX,google.ch
+  - DOMAIN-SUFFIX,google.ci
+  - DOMAIN-SUFFIX,google.cl
+  - DOMAIN-SUFFIX,google.cm
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,google.co.ao
+  - DOMAIN-SUFFIX,google.co.bw
+  - DOMAIN-SUFFIX,google.co.ck
+  - DOMAIN-SUFFIX,google.co.cr
+  - DOMAIN-SUFFIX,google.co.id
+  - DOMAIN-SUFFIX,google.co.il
+  - DOMAIN-SUFFIX,google.co.in
+  - DOMAIN-SUFFIX,google.co.jp
+  - DOMAIN-SUFFIX,google.co.ke
+  - DOMAIN-SUFFIX,google.co.kr
+  - DOMAIN-SUFFIX,google.co.ls
+  - DOMAIN-SUFFIX,google.co.ma
+  - DOMAIN-SUFFIX,google.co.mz
+  - DOMAIN-SUFFIX,google.co.nz
+  - DOMAIN-SUFFIX,google.co.th
+  - DOMAIN-SUFFIX,google.co.tz
+  - DOMAIN-SUFFIX,google.co.ug
+  - DOMAIN-SUFFIX,google.co.uk
+  - DOMAIN-SUFFIX,google.co.uz
+  - DOMAIN-SUFFIX,google.co.ve
+  - DOMAIN-SUFFIX,google.co.vi
+  - DOMAIN-SUFFIX,google.co.za
+  - DOMAIN-SUFFIX,google.co.zm
+  - DOMAIN-SUFFIX,google.co.zw
+  - DOMAIN-SUFFIX,google.com.af
+  - DOMAIN-SUFFIX,google.com.ag
+  - DOMAIN-SUFFIX,google.com.ai
+  - DOMAIN-SUFFIX,google.com.ar
+  - DOMAIN-SUFFIX,google.com.au
+  - DOMAIN-SUFFIX,google.com.bd
+  - DOMAIN-SUFFIX,google.com.bh
+  - DOMAIN-SUFFIX,google.com.bn
+  - DOMAIN-SUFFIX,google.com.bo
+  - DOMAIN-SUFFIX,google.com.br
+  - DOMAIN-SUFFIX,google.com.bz
+  - DOMAIN-SUFFIX,google.com.cu
+  - DOMAIN-SUFFIX,google.com.cy
+  - DOMAIN-SUFFIX,google.com.do
+  - DOMAIN-SUFFIX,google.com.ec
+  - DOMAIN-SUFFIX,google.com.eg
+  - DOMAIN-SUFFIX,google.com.et
+  - DOMAIN-SUFFIX,google.com.fj
+  - DOMAIN-SUFFIX,google.com.gh
+  - DOMAIN-SUFFIX,google.com.gi
+  - DOMAIN-SUFFIX,google.com.gt
+  - DOMAIN-SUFFIX,google.com.hk
+  - DOMAIN-SUFFIX,google.com.jm
+  - DOMAIN-SUFFIX,google.com.kh
+  - DOMAIN-SUFFIX,google.com.kw
+  - DOMAIN-SUFFIX,google.com.lb
+  - DOMAIN-SUFFIX,google.com.ly
+  - DOMAIN-SUFFIX,google.com.mm
+  - DOMAIN-SUFFIX,google.com.mt
+  - DOMAIN-SUFFIX,google.com.mx
+  - DOMAIN-SUFFIX,google.com.my
+  - DOMAIN-SUFFIX,google.com.na
+  - DOMAIN-SUFFIX,google.com.ng
+  - DOMAIN-SUFFIX,google.com.ni
+  - DOMAIN-SUFFIX,google.com.np
+  - DOMAIN-SUFFIX,google.com.om
+  - DOMAIN-SUFFIX,google.com.pa
+  - DOMAIN-SUFFIX,google.com.pe
+  - DOMAIN-SUFFIX,google.com.pg
+  - DOMAIN-SUFFIX,google.com.ph
+  - DOMAIN-SUFFIX,google.com.pk
+  - DOMAIN-SUFFIX,google.com.pr
+  - DOMAIN-SUFFIX,google.com.py
+  - DOMAIN-SUFFIX,google.com.qa
+  - DOMAIN-SUFFIX,google.com.sa
+  - DOMAIN-SUFFIX,google.com.sb
+  - DOMAIN-SUFFIX,google.com.sg
+  - DOMAIN-SUFFIX,google.com.sl
+  - DOMAIN-SUFFIX,google.com.sv
+  - DOMAIN-SUFFIX,google.com.tj
+  - DOMAIN-SUFFIX,google.com.tr
+  - DOMAIN-SUFFIX,google.com.tw
+  - DOMAIN-SUFFIX,google.com.ua
+  - DOMAIN-SUFFIX,google.com.uy
+  - DOMAIN-SUFFIX,google.com.vc
+  - DOMAIN-SUFFIX,google.com.vn
+  - DOMAIN-SUFFIX,google.cv
+  - DOMAIN-SUFFIX,google.cz
+  - DOMAIN-SUFFIX,google.de
+  - DOMAIN-SUFFIX,google.dj
+  - DOMAIN-SUFFIX,google.dk
+  - DOMAIN-SUFFIX,google.dm
+  - DOMAIN-SUFFIX,google.dz
+  - DOMAIN-SUFFIX,google.ee
+  - DOMAIN-SUFFIX,google.es
+  - DOMAIN-SUFFIX,google.fi
+  - DOMAIN-SUFFIX,google.fm
+  - DOMAIN-SUFFIX,google.fr
+  - DOMAIN-SUFFIX,google.ga
+  - DOMAIN-SUFFIX,google.ge
+  - DOMAIN-SUFFIX,google.gg
+  - DOMAIN-SUFFIX,google.gl
+  - DOMAIN-SUFFIX,google.gm
+  - DOMAIN-SUFFIX,google.gr
+  - DOMAIN-SUFFIX,google.gy
+  - DOMAIN-SUFFIX,google.hn
+  - DOMAIN-SUFFIX,google.hr
+  - DOMAIN-SUFFIX,google.ht
+  - DOMAIN-SUFFIX,google.hu
+  - DOMAIN-SUFFIX,google.ie
+  - DOMAIN-SUFFIX,google.im
+  - DOMAIN-SUFFIX,google.iq
+  - DOMAIN-SUFFIX,google.is
+  - DOMAIN-SUFFIX,google.it
+  - DOMAIN-SUFFIX,google.je
+  - DOMAIN-SUFFIX,google.jo
+  - DOMAIN-SUFFIX,google.kg
+  - DOMAIN-SUFFIX,google.ki
+  - DOMAIN-SUFFIX,google.kz
+  - DOMAIN-SUFFIX,google.la
+  - DOMAIN-SUFFIX,google.li
+  - DOMAIN-SUFFIX,google.lk
+  - DOMAIN-SUFFIX,google.lt
+  - DOMAIN-SUFFIX,google.lu
+  - DOMAIN-SUFFIX,google.lv
+  - DOMAIN-SUFFIX,google.md
+  - DOMAIN-SUFFIX,google.mg
+  - DOMAIN-SUFFIX,google.mk
+  - DOMAIN-SUFFIX,google.ml
+  - DOMAIN-SUFFIX,google.mn
+  - DOMAIN-SUFFIX,google.ms
+  - DOMAIN-SUFFIX,google.mu
+  - DOMAIN-SUFFIX,google.mv
+  - DOMAIN-SUFFIX,google.mw
+  - DOMAIN-SUFFIX,google.ne
+  - DOMAIN-SUFFIX,google.nl
+  - DOMAIN-SUFFIX,google.no
+  - DOMAIN-SUFFIX,google.nr
+  - DOMAIN-SUFFIX,google.nu
+  - DOMAIN-SUFFIX,google.pl
+  - DOMAIN-SUFFIX,google.pn
+  - DOMAIN-SUFFIX,google.ps
+  - DOMAIN-SUFFIX,google.pt
+  - DOMAIN-SUFFIX,google.ro
+  - DOMAIN-SUFFIX,google.rs
+  - DOMAIN-SUFFIX,google.ru
+  - DOMAIN-SUFFIX,google.rw
+  - DOMAIN-SUFFIX,google.sc
+  - DOMAIN-SUFFIX,google.se
+  - DOMAIN-SUFFIX,google.sh
+  - DOMAIN-SUFFIX,google.si
+  - DOMAIN-SUFFIX,google.sk
+  - DOMAIN-SUFFIX,google.sm
+  - DOMAIN-SUFFIX,google.sn
+  - DOMAIN-SUFFIX,google.so
+  - DOMAIN-SUFFIX,google.sr
+  - DOMAIN-SUFFIX,google.st
+  - DOMAIN-SUFFIX,google.td
+  - DOMAIN-SUFFIX,google.tg
+  - DOMAIN-SUFFIX,google.tl
+  - DOMAIN-SUFFIX,google.tm
+  - DOMAIN-SUFFIX,google.tn
+  - DOMAIN-SUFFIX,google.to
+  - DOMAIN-SUFFIX,google.tt
+  - DOMAIN-SUFFIX,google.vg
+  - DOMAIN-SUFFIX,google.vu
+  - DOMAIN-SUFFIX,google.ws
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googlecnapps.cn
+  - DOMAIN-SUFFIX,googlecommerce.com
+  - DOMAIN-SUFFIX,googlecompare.co.uk
+  - DOMAIN-SUFFIX,googlescholar.com
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,gsrc.io
+  - DOMAIN-SUFFIX,gstatic.cn
+  - DOMAIN-SUFFIX,gstaticcnapps.cn
+  - DOMAIN-SUFFIX,hey.gle
+  - DOMAIN-SUFFIX,howtogetmo.co.uk
+  - DOMAIN-SUFFIX,kaggle.io
+  - DOMAIN-SUFFIX,near.by
+  - DOMAIN-SUFFIX,neverware.com
+  - DOMAIN-SUFFIX,oasisfeng.com
+  - DOMAIN-SUFFIX,ok.gle
+  - DOMAIN-SUFFIX,openthread.io
+  - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,panoramio.com
+  - DOMAIN-SUFFIX,prod-controlbe.floonet.goog
+  - DOMAIN-SUFFIX,prod-databe.floonet.goog
+  - DOMAIN-SUFFIX,prod.databe.floonet.goog
+  - DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
+  - DOMAIN-SUFFIX,redirector.gvt1.com
+  - DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
+  - DOMAIN-SUFFIX,redirector.snap.gvt1.com
+  - DOMAIN-SUFFIX,registry.google
+  - DOMAIN-SUFFIX,staging-controlbe.floonet.goog
+  - DOMAIN-SUFFIX,staging-databe.floonet.goog
+  - DOMAIN-SUFFIX,staging.databe.floonet.goog
+  - DOMAIN-SUFFIX,thinkquarterly.co.uk
+  - DOMAIN-SUFFIX,up.corp.goog
+  - DOMAIN-SUFFIX,weltweitwachsen.de
+  - DOMAIN-SUFFIX,womenwill.com.br
+  - DOMAIN-SUFFIX,womenwill.id
+  - DOMAIN-SUFFIX,womenwill.in
+  - DOMAIN-SUFFIX,womenwill.mx
+  - DOMAIN-SUFFIX,zukunftswerkstatt.de
+  - DOMAIN-KEYWORD,appspot
+  - DOMAIN-KEYWORD,recaptcha
+  - IP-CIDR,172.110.32.0/21,no-resolve
+  - IP-CIDR,216.73.80.0/20,no-resolve
+  - IP-CIDR6,2620:120:e000::/40,no-resolve
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.play.games
+  - PROCESS-NAME,BackupandSync
+  - DOMAIN-SUFFIX,accounts.xn--9trs65b.com
+  - DOMAIN-SUFFIX,accounts.xn--ggle-55da.com
+  - DOMAIN-SUFFIX,adservice.google.com
+  - DOMAIN-SUFFIX,beacons.gcp.gvt2.com
+  - DOMAIN-SUFFIX,borgmon.adz.google.com
+  - DOMAIN-SUFFIX,c.admob.com
+  - DOMAIN-SUFFIX,c.android.clients.google.com
+  - DOMAIN-SUFFIX,cache-management-prod.google.com
+  - DOMAIN-SUFFIX,cache.pack.google.com
+  - DOMAIN-SUFFIX,checkin.gstatic.com
+  - DOMAIN-SUFFIX,clickserve.dartsearch.net
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
+  - DOMAIN-SUFFIX,cn.widevine.com
+  - DOMAIN-SUFFIX,cnappinstall.googleadapis.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,content.googleadapis.com
+  - DOMAIN-SUFFIX,corp.google.com
+  - DOMAIN-SUFFIX,corp.googleapis.com
+  - DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+  - DOMAIN-SUFFIX,crl.pki.goog
+  - DOMAIN-SUFFIX,csi.gstatic.com
+  - DOMAIN-SUFFIX,dg-meta.video.google.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,dl.l.google.com
+  - DOMAIN-SUFFIX,download.mlcc.google.com
+  - DOMAIN-SUFFIX,download.tensorflow.google.com
+  - DOMAIN-SUFFIX,emmapplecodevice.googleapis.com
+  - DOMAIN-SUFFIX,fontfiles.googleadapis.com
+  - DOMAIN-SUFFIX,fontfiles.googleapis.com
+  - DOMAIN-SUFFIX,fonts.googleadapis.com
+  - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,fonts.gstatic.com
+  - DOMAIN-SUFFIX,g0.gstatic.com
+  - DOMAIN-SUFFIX,g1.gstatic.com
+  - DOMAIN-SUFFIX,g2.gstatic.com
+  - DOMAIN-SUFFIX,g3.gstatic.com
+  - DOMAIN-SUFFIX,goto.google.com
+  - DOMAIN-SUFFIX,gstaticadssl.l.google.com
+  - DOMAIN-SUFFIX,imasdk.googleapis.com
+  - DOMAIN-SUFFIX,ocsp.pki.goog
+  - DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
+  - DOMAIN-SUFFIX,performanceparameters.googleapis.com
+  - DOMAIN-SUFFIX,pki-goog.l.google.com
+  - DOMAIN-SUFFIX,play.1ucrs.com
+  - DOMAIN-SUFFIX,redirector.bdn.dev
+  - DOMAIN-SUFFIX,redirector.c.chat.google.com
+  - DOMAIN-SUFFIX,redirector.c.mail.google.com
+  - DOMAIN-SUFFIX,redirector.c.pack.google.com
+  - DOMAIN-SUFFIX,redirector.c.play.google.com
+  - DOMAIN-SUFFIX,redirector.c.youtubeeducation.com
+  - DOMAIN-SUFFIX,redirector.xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,regioninfo-pa.googleapis.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,service.urchin.com
+  - DOMAIN-SUFFIX,settings.xn--9trs65b.com
+  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+  - DOMAIN-SUFFIX,ssl.gstatic.com
+  - DOMAIN-SUFFIX,staging-regioninfo-pa.googleapis.com
+  - DOMAIN-SUFFIX,support.1ucrs.com
+  - DOMAIN-SUFFIX,tac.googleapis.com
+  - DOMAIN-SUFFIX,test.bugs-qa.chromium.org
+  - DOMAIN-SUFFIX,test.gbugs-qa.chromium.org
+  - DOMAIN-SUFFIX,tools.google.com
+  - DOMAIN-SUFFIX,tools.l.google.com
+  - DOMAIN-SUFFIX,update.googleapis.com
+  - DOMAIN-SUFFIX,wear.googleapis.com
+  - DOMAIN-SUFFIX,www-google-analytics.l.google.com
+  - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+  - DOMAIN-SUFFIX,www.googleadapis.com
+  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN,alt9-mtalk.google.com
+  - DOMAIN-SUFFIX,mobile-gtalk.l.google.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,safebrowsing-cache.google.com
+  - DOMAIN-SUFFIX,settings.crashlytics.com
+  - DOMAIN-SUFFIX,toolbarqueries.google.com
+  - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-KEYWORD,www.google
+  - DOMAIN,assets-priconne-redive-us.akamaized.net
+  - DOMAIN,cvws.icloud-content.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,voice.telephony.goog
+  - DOMAIN-SUFFIX,api.linksalpha.com
+  - DOMAIN-SUFFIX,api.termius.com
+  - DOMAIN-SUFFIX,apidocs.linksalpha.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
+  - DOMAIN-SUFFIX,disk.yandex.ru
+  - DOMAIN-SUFFIX,help.linksalpha.com
+  - DOMAIN-SUFFIX,phobos.apple.com
+  - DOMAIN-SUFFIX,userapi.nytlog.com
+  - DOMAIN-SUFFIX,wr.pvp.net
+  - DOMAIN-SUFFIX,www.linksalpha.com
+# Proxy
+  - DOMAIN-SUFFIX,sm.ms
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdn.statically.io
+  - DOMAIN,hub.docker.com
+  - DOMAIN,lab.skk.moe
+  - DOMAIN,ocsp.int-x3.letsencrypt.org
+# > Akamai
+  - DOMAIN,a248.e.akamai.net
+  - DOMAIN,a771.dscq.akamai.net
+# > Amazon
+  - DOMAIN,d3c33hcgiwev3.cloudfront.net
+  - DOMAIN,payments-jp.amazon.com
+  - DOMAIN,s3-ap-northeast-1.amazonaws.com
+  - DOMAIN,s3-ap-southeast-2.amazonaws.com
+# > Alphabet
+#   - DOMAIN-SUFFIX,ampproject.org
+  - DOMAIN-KEYWORD,.blogspot.
+# > Apple
+  - DOMAIN,testflight.apple.com
+# > Automattic
+# > Bloomberg
+  - DOMAIN-SUFFIX,bloomberg.cn
+# > Cloudflare
+# > Clubhouse
+# ---(Crypto)---
+  - DOMAIN-SUFFIX,probit.com
+  - DOMAIN-SUFFIX,upbit.com
+# > Binane
+# > OKX
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+# ------
+# > Discord
+# > Dropbox
+# > Fastly
+  - DOMAIN-SUFFIX,freetls.fastly.net
+  - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
+# > Financial Times
+  - DOMAIN,d1e00ek4ebabms.cloudfront.net
+  - DOMAIN,d19eijqb5qll1w.cloudfront.net
+# > Line
+  - IP-CIDR,103.2.30.0/23,no-resolve
+  - IP-CIDR,203.104.144.0/21,no-resolve
+# > Meta
+  - DOMAIN-KEYWORD,.facebook.
+# > Microsoft
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN,github.global.ssl.fastly.net
+# > Pinterest
+  - DOMAIN-KEYWORD,.pinterest.
+# > pixiv
+# > Reddit
+# > Reuters
+# > Steam
+  - DOMAIN-SUFFIX,steamcommunity.com
+#   - DOMAIN,store.steampowered.com
+# > Telegram
+  - IP-CIDR,91.108.4.0/22,no-resolve
+  - IP-CIDR,91.108.8.0/22,no-resolve
+  - IP-CIDR,91.108.12.0/22,no-resolve
+  - IP-CIDR,91.108.16.0/22,no-resolve
+  - IP-CIDR,91.108.20.0/22,no-resolve
+  - IP-CIDR,91.108.56.0/22,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,no-resolve
+  - IP-CIDR6,2001:b28:f23c::/48,no-resolve
+# > The Economist
+# > The New York Times
+  - DOMAIN,nytimes.map.fastly.net
+# > Twitter
+# > Wikimedia Foundation
+# > Yahoo
+  - DOMAIN,search.yahoo.co.jp
+# > Yandex
+  - DOMAIN,disk.yandex.com
+# (Region-Restricted Access Denied)
+  - DOMAIN,addons.mozilla.org
+  - DOMAIN,c.mi.com
+  - DOMAIN,wego.here.com
+# ---(Apple)---
+  - DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+  - DOMAIN-SUFFIX,smoot.apple.com // Spotlight
+  - DOMAIN,amp-api.podcasts.apple.com // Podcasts
+  - DOMAIN,beta.music.apple.com // Apple Music Web
+  - DOMAIN,books.itunes.apple.com // iBooks Store download
+  - DOMAIN,facetime.apple.com // FaceTime Links
+  - DOMAIN,lookup-api.apple.com // Look Up
+  - DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# > Web Preview
+  - DOMAIN,apps.apple.com
+  - DOMAIN,books.apple.com
+  - DOMAIN,itunes.apple.com
+  - DOMAIN,tv.apple.com
+# > News
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
