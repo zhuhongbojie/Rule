@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,taichi-maker.com
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,iQiyi.com
+  - DOMAIN-SUFFIX,iQiyipic.com
+  - DOMAIN,officecdn-microsoft-com.akamaized.net
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,hbzb555.com
+  - DOMAIN-SUFFIX,heibai360.com
