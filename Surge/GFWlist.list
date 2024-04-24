@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,cdn-msp.jmcomic.me
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,cherrytv.one
 DOMAIN-SUFFIX,ftp.de.debian.org
+DOMAIN-SUFFIX,trxs.cc
+DOMAIN-SUFFIX,trxs.me
+DOMAIN-SUFFIX,tongrenquan.org
 # GFW list
 DOMAIN-SUFFIX,chromeenterprise.google
 DOMAIN-SUFFIX,flurry.com
