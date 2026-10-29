@@ -1,29 +1,19 @@
 # 代理列表
 payload:
 # Personal list
-  - DOMAIN-SUFFIX,emby.lcloud.wiki
+  - DOMAIN-SUFFIX,trxs.cc
   - DOMAIN-SUFFIX,stream.ntrrr.top
   - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,apkflash.net
-  - DOMAIN-SUFFIX,d.tktn.be
-  - DOMAIN-SUFFIX,uukanshu.com
-  - DOMAIN-SUFFIX,uukanshu.net
-  - DOMAIN-SUFFIX,zhaoshuyuan.com
-  - DOMAIN-SUFFIX,69shu.com
-  - DOMAIN-SUFFIX,69shuba.pro
-  - DOMAIN-SUFFIX,yimixs.cc
-  - DOMAIN-SUFFIX,yimixs.com
-  - DOMAIN-SUFFIX,cdn.shucdn.com
-  - DOMAIN-SUFFIX,bbs.wcccc.cc
+  - DOMAIN-SUFFIX,uukanshu.cc
+  - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,czbooks.net
+  - DOMAIN-SUFFIX,8book.com
+  - DOMAIN-SUFFIX,tongrenguan.cc
   - DOMAIN-SUFFIX,en.huamaobizhi.com
   - DOMAIN-SUFFIX,cdn-msp.18comic.vip
   - DOMAIN-SUFFIX,cdn-msp.jmcomic.me
-  - DOMAIN-SUFFIX,charontv.com
-  - DOMAIN-SUFFIX,cherrytv.one
   - DOMAIN-SUFFIX,ftp.de.debian.org
   - DOMAIN-SUFFIX,trxs.cc
-  - DOMAIN-SUFFIX,trxs.me
-  - DOMAIN-SUFFIX,tongrenquan.org
 # GFW list
   - DOMAIN-SUFFIX,chromeenterprise.google
   - DOMAIN-SUFFIX,flurry.com
@@ -42,26 +32,13 @@ payload:
   - DOMAIN-SUFFIX,syx86.cn
   - DOMAIN-SUFFIX,translate.google
   - DOMAIN-SUFFIX,tv.google
-# Amazon
-# Facebook
-# Github
-# Google
 # GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
   - IP-CIDR,203.208.40.0/24,no-resolve
   - IP-CIDR,203.208.41.0/24,no-resolve
-# Kakao Talk
 # Line
   - IP-CIDR,103.2.28.0/24,no-resolve
   - IP-CIDR,119.235.224.0/24,no-resolve
   - IP-CIDR,119.235.232.0/24,no-resolve
-# OneDrive
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
-#  - DOMAIN-SUFFIX,aria.microsoft.com
-# Porn
 # Steam
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamgames.com
@@ -507,8 +484,6 @@ payload:
   - DOMAIN-SUFFIX,wr.pvp.net
   - DOMAIN-SUFFIX,www.linksalpha.com
 # Proxy
-  - DOMAIN-SUFFIX,sm.ms
-  - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.statically.io
   - DOMAIN,hub.docker.com
   - DOMAIN,lab.skk.moe
@@ -526,23 +501,13 @@ payload:
   - DOMAIN-KEYWORD,.blogspot.
 # > Apple
   - DOMAIN,testflight.apple.com
-# > Automattic
 # > Bloomberg
   - DOMAIN-SUFFIX,bloomberg.cn
-# > Cloudflare
-# > Clubhouse
 # ---(Crypto)---
   - DOMAIN-SUFFIX,probit.com
   - DOMAIN-SUFFIX,upbit.com
-# > Binane
 # > OKX
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-# ------
-# > Discord
-# > Dropbox
-# > Fastly
-  - DOMAIN-SUFFIX,freetls.fastly.net
-  - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 # > Financial Times
   - DOMAIN,d1e00ek4ebabms.cloudfront.net
   - DOMAIN,d19eijqb5qll1w.cloudfront.net
@@ -556,12 +521,6 @@ payload:
   - DOMAIN,github.global.ssl.fastly.net
 # > Pinterest
   - DOMAIN-KEYWORD,.pinterest.
-# > pixiv
-# > Reddit
-# > Reuters
-# > Steam
-  - DOMAIN-SUFFIX,steamcommunity.com
-#   - DOMAIN,store.steampowered.com
 # > Telegram
   - IP-CIDR,91.108.4.0/22,no-resolve
   - IP-CIDR,91.108.8.0/22,no-resolve
@@ -571,11 +530,8 @@ payload:
   - IP-CIDR,91.108.56.0/22,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,no-resolve
   - IP-CIDR6,2001:b28:f23c::/48,no-resolve
-# > The Economist
 # > The New York Times
   - DOMAIN,nytimes.map.fastly.net
-# > Twitter
-# > Wikimedia Foundation
 # > Yahoo
   - DOMAIN,search.yahoo.co.jp
 # > Yandex
