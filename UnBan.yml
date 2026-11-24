@@ -1,5 +1,6 @@
   # Unbreak 白名单 不应该被广告链接的网站
 payload:
+  - codexfree.xiaotuxp.com
   - ejhx7q0rrrnhamudki.com
   - analytics.95516.com
   - bdtj.tagtic.cn
